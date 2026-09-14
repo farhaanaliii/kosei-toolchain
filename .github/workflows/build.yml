@@ -1,4 +1,4 @@
-﻿name: Build Toolchain
+name: Build Toolchain
 
 on:
   push:
@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
