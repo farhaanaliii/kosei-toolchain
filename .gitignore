@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.py[oc]
+dist/
+build/
+*.jar
+*.dex
+*.pk8
+*.pem
+*.tar.gz
+*.sha256
