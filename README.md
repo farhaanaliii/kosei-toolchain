@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# kosei-data
+# kosei-toolchain
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
